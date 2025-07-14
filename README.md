@@ -27,4 +27,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=100&duration=4000&lines=I'm+ivko!;+A+Python+Developer!;" />
 </h1>
 
----
+<br><br>
+
+<div align="center">
+    - 🔭 I’m currently working on: **Professional-grade Banking APIs using Django**
+    - 🌱 I’m learning: **Docker, Celery, Redis, RabbitMQ, Reverse Proxies, NGINX**
+    - 🤝 I’m looking to collaborate on **MVPs, open-source projects, and freelance work**
+    - 💬 DM me if you're **building something cool** or **need a backend developer!**
+</div>
