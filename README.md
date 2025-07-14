@@ -21,7 +21,7 @@
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
 ```
 
-<br><br>
+<br />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=100&duration=4000&lines=I'm+ivko!;+A+Python+Developer!;" />
@@ -98,5 +98,38 @@
 <div align="center">
 <h1 align="center">🐍 Contributions 🐍</h1>
 
+    
+![snake gif](https://github.com/iivko/iivko/blob/output/github-snake-dark.svg)
 </div>
 
+<br />
+
+<p></p>
+
+<br />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=100&duration=5000&lines=Get+in+Touch" />
+</h1>
+
+<br />
+
+<div align="center">
+<a href="https://linkedin.com/in/ivaylo-naydenov-5a9b43370/">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width=200 target="_blank">
+</a>
+<a href="https://discordapp.com/users/0u0s0e0r0">
+    <img src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-ed9a-4d00-a045-710caa6fc834.gif" width="200">
+</a>
+</div>
+
+<br />
+
+<p></p>
+
+<br />
+
+<div align="center">
+<h3>Don't stop coding!</h3>
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="500">
+</div>
