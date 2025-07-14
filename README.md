@@ -30,8 +30,8 @@
 <br><br>
 
 <div align="center">
-    - 🔭 I’m currently working on: **Professional-grade Banking APIs using Django**
-    - 🌱 I’m learning: **Docker, Celery, Redis, RabbitMQ, Reverse Proxies, NGINX**
-    - 🤝 I’m looking to collaborate on **MVPs, open-source projects, and freelance work**
-    - 💬 DM me if you're **building something cool** or **need a backend developer!**
+    🔭 I’m currently working on: **Professional-grade Banking APIs using Django**
+    🌱 I’m learning: **Docker, Celery, Redis, RabbitMQ, Reverse Proxies, NGINX**
+    🤝 I’m looking to collaborate on **MVPs, open-source projects, and freelance work**
+    💬 DM me if you're **building something cool** or **need a backend developer!**
 </div>
