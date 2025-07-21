@@ -39,13 +39,12 @@
 
 <div align="center">
     
-🔭 I’m currently working on: **Professional-grade Banking APIs using Django**
-    
-🌱 I’m learning: **Docker, Celery, Redis, RabbitMQ, Reverse Proxies, NGINX**
-    
-🤝 I’m looking to collaborate on **MVPs, open-source projects, and freelance work**
-    
-💬 DM me if you're **building something cool** or **need a backend developer!**
+🔭 I’m currently working on: Professional-grade Banking APIs using Django
+📘 I’m following a course on Udemy: <a href="https://www.udemy.com/course/complete-django-banking-api-build-a-secure-fintech-platform">Master the art of building professional-grade Banking APIs using Django and modern best practices!</a>
+
+🎓 I’m about to start my first year at Technical University of Sofia, majoring in Informatics and Software Science
+
+🌱 I’m learning: Docker, Celery, Redis, RabbitMQ, Reverse Proxies, NGINX
 
 </div>
 
