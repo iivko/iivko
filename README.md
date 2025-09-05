@@ -110,9 +110,6 @@
 <br />
 
 <div align="center">
-<a href="https://linkedin.com/in/ivaylo-naydenov-5a9b43370/">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width=200 target="_blank">
-</a>
 <a href="https://discordapp.com/users/0u0s0e0r0">
     <img src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-ed9a-4d00-a045-710caa6fc834.gif" width="200">
 </a>
