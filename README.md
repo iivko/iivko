@@ -13,7 +13,7 @@
 <br />
 
 <div align="center">
-<h1 align="center">🐍 Contributions 🐍</h1>
+<h1 align="center"> 🐍 Contributions 🐍 </h1>
 
 
 ![snake gif](https://github.com/iivko/iivko/blob/output/github-snake-dark.svg)
